@@ -1,0 +1,13 @@
+{
+  "1": {
+    "question": "在 Python 中，想要在螢幕上印出文字，應該使用哪一個函式？",
+    "options": [
+      "say()",
+      "show()",
+      "print()",
+      "text()"
+    ],
+    "answer": "print()",
+    "explanation": "print() 是 Python 的輸出函式。"
+  }
+}
