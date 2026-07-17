@@ -1,0 +1,11 @@
+{
+    "question": "哪一個迴圈通常用來重複固定次數？",
+    "options": [
+        "repeat",
+        "for",
+        "loop",
+        "until"
+    ],
+    "answer": "for",
+    "explanation": "for 迴圈常用來重複固定次數或遍歷資料。"
+}

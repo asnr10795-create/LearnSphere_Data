@@ -1,0 +1,11 @@
+{
+    "question": "哪一個符號代表加法？",
+    "options": [
+        "-",
+        "/",
+        "*",
+        "+"
+    ],
+    "answer": "+",
+    "explanation": "+ 是 Python 的加法運算子。"
+}

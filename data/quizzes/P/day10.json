@@ -1,0 +1,11 @@
+{
+    "question": "Python 中哪一個關鍵字可以建立函式？",
+    "options": [
+        "func",
+        "function",
+        "def",
+        "create"
+    ],
+    "answer": "def",
+    "explanation": "def 是 Python 建立函式的關鍵字。"
+}

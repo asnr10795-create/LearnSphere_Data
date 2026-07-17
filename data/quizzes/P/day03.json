@@ -1,0 +1,11 @@
+{
+    "question": "Python 中表示字串通常會使用什麼？",
+    "options": [
+        "單引號或雙引號",
+        "小括號",
+        "大括號",
+        "中括號"
+    ],
+    "answer": "單引號或雙引號",
+    "explanation": "例如 'Hello' 或 \"Hello\" 都是字串。"
+}

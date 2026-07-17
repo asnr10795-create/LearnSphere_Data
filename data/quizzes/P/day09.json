@@ -1,0 +1,11 @@
+{
+    "question": "while 迴圈會持續執行到什麼時候？",
+    "options": [
+        "直到程式結束",
+        "直到條件變成 False",
+        "固定執行一次",
+        "固定執行十次"
+    ],
+    "answer": "直到條件變成 False",
+    "explanation": "while 會一直執行，只要條件仍然成立。"
+}

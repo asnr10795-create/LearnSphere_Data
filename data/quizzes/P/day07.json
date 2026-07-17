@@ -1,0 +1,11 @@
+{
+    "question": "Python 中哪個關鍵字表示『否則』？",
+    "options": [
+        "elseif",
+        "else",
+        "otherwise",
+        "default"
+    ],
+    "answer": "else",
+    "explanation": "else 代表前面的條件不成立時執行。"
+}

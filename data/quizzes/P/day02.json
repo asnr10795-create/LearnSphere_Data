@@ -1,0 +1,11 @@
+{
+    "question": "下面哪一個是合法的 Python 變數名稱？",
+    "options": [
+        "1name",
+        "my_name",
+        "my-name",
+        "class"
+    ],
+    "answer": "my_name",
+    "explanation": "變數名稱不能以數字開頭，也不能使用 Python 保留字。"
+}

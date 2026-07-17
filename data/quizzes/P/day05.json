@@ -1,0 +1,11 @@
+{
+    "question": "哪一個函式可以取得使用者輸入？",
+    "options": [
+        "print()",
+        "scan()",
+        "input()",
+        "read()"
+    ],
+    "answer": "input()",
+    "explanation": "input() 可以讓使用者輸入資料。"
+}
