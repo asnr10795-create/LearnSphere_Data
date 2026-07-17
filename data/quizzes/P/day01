@@ -1,1 +1,11 @@
-
+{
+    "question": "在 Python 中，用來輸出文字到畫面的函式是什麼？",
+    "options": [
+        "show()",
+        "print()",
+        "echo()",
+        "display()"
+    ],
+    "answer": "print()",
+    "explanation": "print() 是 Python 最基本的輸出函式。"
+}
