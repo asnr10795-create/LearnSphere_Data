@@ -1,0 +1,20 @@
+[
+    {
+        "id": "P",
+        "name": "Python",
+        "icon": "🐍",
+        "days": 100
+    },
+    {
+        "id": "H",
+        "name": "HTML",
+        "icon": "🌐",
+        "days": 40
+    },
+    {
+        "id": "JS",
+        "name": "JavaScript",
+        "icon": "🟨",
+        "days": 80
+    }
+]
