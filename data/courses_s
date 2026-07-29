@@ -1,1 +1,21 @@
+[
+    {
+        "id": "P",
+        "name": "Python",
+        "icon": "🐍",
+        "days": 60
+    },
+    {
+        "id": "H",
+        "name": "HTML",
+        "icon": "🌐",
+        "days": 0
+    },
+    {
+        "id": "JS",
+        "name": "JavaScript",
+        "icon": "🟨",
+        "days": 0
+    }
+]
 
