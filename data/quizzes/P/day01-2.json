@@ -1,1 +1,14 @@
+{
+  "type": "code",
+  "question": "請自行輸入程式碼，讓畫面輸出 Hello, Python!",
+  "expected_output": "Hello, Python!",
+  "answer": "Hello, Python!",
+  "explanation": "使用 Python 的 print() 函式，並將 Hello, Python! 放在引號中，就能把文字輸出到畫面上。",
+  "hints": [
+    "提示 1：Python 的輸出函式是 print()。",
+    "提示 2：文字要放在單引號或雙引號中。",
+    "提示 3：可以輸入 print('Hello, Python!')。"
+  ],
+  "starter_code": ""
+}
 
