@@ -1,0 +1,6 @@
+{
+  "admin_emails": [
+    "asnr10795@gmail.com"
+  ],
+  "note": "請將 YOUR_ADMIN_EMAIL@example.com 改成你的 Supabase 管理員 Email。也可用 LEARNSPHERE_ADMIN_EMAILS 環境變數覆寫，多個 Email 用逗號分隔。"
+}
