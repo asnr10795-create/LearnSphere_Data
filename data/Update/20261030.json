@@ -1,1 +1,20 @@
+{
+  "title": "LearnSphere 第一次功能更新",
+  "message": "本次更新加入多項學習與使用體驗改善。",
+  "version": "20261030",
+  "date": "2026-10-30",
+  "changes": [
+    "新增 Day 1 第二題程式碼挑戰。",
+    "程式碼題可以執行程式並依照實際輸出自動對答案。",
+    "即使程式發生語法錯誤或執行錯誤，也可以按下檢查並提交。",
+    "錯誤訊息改成類似 VS Code 終端機的顯示格式。",
+    "答錯題目會顯示紅色結果，全部答對會顯示綠色結果。",
+    "錯題結果頁新增再看一次課文功能。",
+    "新增訪客模式，訪客不會同步學習進度，也不會累積 Coins。",
+    "修正課程內容、商店與 Day 按鈕的載入提示。",
+    "新增啟動時自動檢查 GitHub data/Update 的功能。",
+    "新增 update_data.md，記錄使用者確認過的更新。"
+  ],
+  "details_url": "https://github.com/asnr10795-create/LearnSphere_Data/tree/main/data/Update"
+}
 
